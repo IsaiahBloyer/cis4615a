@@ -1,9 +1,6 @@
+
 public class Widget {
-  private int total; // Number of elements
-  
-  public int getTotal () {
-    return total;
-  }
+  public int total; // Number of elements
  
   void add() {
     if (total < Integer.MAX_VALUE) {     
